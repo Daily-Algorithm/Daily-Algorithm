@@ -4,6 +4,9 @@
 > 신동은(@dongeunshin), 이하정(@healtheefart)
 
 ## ⛔️규칙
+> 시간은 구성원 스케쥴에 맞춰 유동적으로!  
+[주중] 아침 10시 / 자료구조 2문제 이상  
+[주말] 아침 10시 / 자유문제 1문제  
 
 - **각자 포크한 repository/main 브랜치**에 문제를 push하고, pr을 통해 **공용 repository/각자 브랜치**에 반영
     - 예 : pr 날릴 때 `Daily-Algorithm:이하정` <- `healtheefart:main`
