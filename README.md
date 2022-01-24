@@ -7,6 +7,7 @@
 > 시간은 구성원 스케쥴에 맞춰 유동적으로!  
 [주중] 아침 10시 / 자료구조 2문제 이상  
 [주말] 아침 10시 / 자유문제 1문제  
+▶ 방학 : 22/01/28 ~ 22/02/01
 
 - **각자 포크한 repository/main 브랜치**에 문제를 push하고, pr을 통해 **공용 repository/각자 브랜치**에 반영
     - 예 : pr 날릴 때 `Daily-Algorithm:이하정` <- `healtheefart:main`
@@ -46,8 +47,3 @@
 |22.01.20| |[L2. 다리를 지나는 트럭](!https://programmers.co.kr/learn/courses/30/lessons/42583)|🟡|🟡|
 |22.01.21| |[L2. 주식가격](!https://programmers.co.kr/learn/courses/30/lessons/42584)|🟢|🟢|
 |22.01.24|힙|[L2. 더맵게](!https://programmers.co.kr/learn/courses/30/lessons/42626)|🟢|🟢|
-|22.01.28|방학||||
-|22.01.29|방학||||
-|22.01.30|방학||||
-|22.01.31|방학||||
-|22.02.01|방학||||
