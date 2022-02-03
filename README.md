@@ -50,3 +50,6 @@
 |22.01.25|정렬|[L1. K번째 수](!https://programmers.co.kr/learn/courses/30/lessons/42748)|🟢|🟢|
 |22.01.25| |[L2. 가장 큰 수](!https://programmers.co.kr/learn/courses/30/lessons/42746)|🟡|🟡|
 |22.01.25| |[L2. H-index](!https://programmers.co.kr/learn/courses/30/lessons/42747)||🟢|
+|22.02.03|완전탐색|[L1. 모의고사](!https://programmers.co.kr/learn/courses/30/lessons/42840)|🟢|🟢|
+|22.02.03| |[L2. 소수 찾기](!https://programmers.co.kr/learn/courses/30/lessons/42839)|🟢|🟢|
+|22.02.03| |[L2. 카펫](!https://programmers.co.kr/learn/courses/30/lessons/42842)|🟢|🟢|
