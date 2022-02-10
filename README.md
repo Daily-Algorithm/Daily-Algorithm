@@ -53,3 +53,9 @@
 |22.02.03|완전탐색|[L1. 모의고사](!https://programmers.co.kr/learn/courses/30/lessons/42840)|🟢|🟢|
 |22.02.03| |[L2. 소수 찾기](!https://programmers.co.kr/learn/courses/30/lessons/42839)|🟢|🟢|
 |22.02.03| |[L2. 카펫](!https://programmers.co.kr/learn/courses/30/lessons/42842)|🟢|🟢|
+|22.02.05|탐욕법|[L1. 체육복](!https://programmers.co.kr/learn/courses/30/lessons/42862)|🟢|🟢|
+|22.02.07| |[L2. 조이스틱](!https://programmers.co.kr/learn/courses/30/lessons/42860)|🟢|🟢|
+|22.02.08| |[L2. 큰 수 만들기](!https://programmers.co.kr/learn/courses/30/lessons/42883)|🟢|🟢|
+|22.02.09| |[L2. 구명보트](!https://programmers.co.kr/learn/courses/30/lessons/42885)|🟢|🟢|
+|22.02.10|연습문제|[L2. 오픈채팅방](!https://programmers.co.kr/learn/courses/30/lessons/42888)|🟢|🟢|
+|22.02.10| |[L2. N개 최소공배수](!https://programmers.co.kr/learn/courses/30/lessons/12953)|🟢|🟢|
