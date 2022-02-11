@@ -59,3 +59,5 @@
 |22.02.09| |[L2. 구명보트](!https://programmers.co.kr/learn/courses/30/lessons/42885)|🟢|🟢|
 |22.02.10|연습문제|[L2. 오픈채팅방](!https://programmers.co.kr/learn/courses/30/lessons/42888)|🟢|🟢|
 |22.02.10| |[L2. N개 최소공배수](!https://programmers.co.kr/learn/courses/30/lessons/12953)|🟢|🟢|
+|22.02.11| |[L2. 멀쩡한 사각형](!https://programmers.co.kr/learn/courses/30/lessons/62048)|🟢|🟢|
+|22.02.11| |[L2. 2개 이하로 다른 비트](!https://programmers.co.kr/learn/courses/30/lessons/77885)|🟡|🟡|
