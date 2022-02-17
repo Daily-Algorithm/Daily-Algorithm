@@ -28,6 +28,7 @@ public class PG조이스틱_F02 {
 		int seat = name.length();
 		int move = 0;
 		if(notA.get(0) != 0){notA.add(0,0);}
+		// BBABAAAB -> {0, 1, 3, 7} -> {7, 3, 1} -> {1, 3}
 		while (notA.size() >= 2) {
 			int front = notA.get(0);
 			int next = notA.get(1);
@@ -38,9 +39,11 @@ public class PG조이스틱_F02 {
 				move += reverse;
 				notA.remove(0);
 				Collections.reverse(notA);
-			} else {
+			} else if (reverse > straight) {
 				move += straight;
 				notA.remove(0);
+			} else {
+
 			}
 		}
 
@@ -48,6 +51,6 @@ public class PG조이스틱_F02 {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(solution("AAABBBBBBBAA"));
+		System.out.println(solution("ABAAABB"));
 	}
 }

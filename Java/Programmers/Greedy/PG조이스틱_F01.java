@@ -73,6 +73,6 @@ public class PG조이스틱_F01 {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(solution("ABAAABB"));
+		System.out.println(solution("BBABAAAB"));
 	}
 }
