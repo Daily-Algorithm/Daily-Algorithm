@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BJ15650_N과M {
+public class BJ15650_N과M2 {
 
 	static int N, M;
 	public static void main(String[] args) throws IOException {
