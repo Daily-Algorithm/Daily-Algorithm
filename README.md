@@ -42,26 +42,26 @@
 
 |날짜|유형|문제링크|이하정|신동은|
 |--------|------|---|:------:|:---:|
-|22.02.03|완전탐색|[L1. 모의고사](!https://programmers.co.kr/learn/courses/30/lessons/42840)|🟢|🟢|
-|22.02.03| |[L2. 소수 찾기](!https://programmers.co.kr/learn/courses/30/lessons/42839)|🟢|🟢|
-|22.02.03| |[L2. 카펫](!https://programmers.co.kr/learn/courses/30/lessons/42842)|🟢|🟢|
-|22.02.05|탐욕법|[L1. 체육복](!https://programmers.co.kr/learn/courses/30/lessons/42862)|🟢|🟢|
-|22.02.07| |[L2. 조이스틱](!https://programmers.co.kr/learn/courses/30/lessons/42860)|🟢|🟢|
-|22.02.08| |[L2. 큰 수 만들기](!https://programmers.co.kr/learn/courses/30/lessons/42883)|🟢|🟢|
-|22.02.09| |[L2. 구명보트](!https://programmers.co.kr/learn/courses/30/lessons/42885)|🟢|🟢|
-|22.02.10|연습문제|[L2. 오픈채팅방](!https://programmers.co.kr/learn/courses/30/lessons/42888)|🟢|🟢|
-|22.02.10| |[L2. N개 최소공배수](!https://programmers.co.kr/learn/courses/30/lessons/12953)|🟢|🟢|
-|22.02.11| |[L2. 멀쩡한 사각형](!https://programmers.co.kr/learn/courses/30/lessons/62048)|🟢|🔴|
-|22.02.11| |[L2. 2개 이하로 다른 비트](!https://programmers.co.kr/learn/courses/30/lessons/77885)|🟡|🔴|
-|22.02.14| |[L2. 영어 끝말잇기](!https://programmers.co.kr/learn/courses/30/lessons/12981)|🟢|🟢|
-|22.02.14| |[L2. 짝지어 제거하기](!https://programmers.co.kr/learn/courses/30/lessons/12973)|🟢|🟢|
-|22.02.16| |[L2. 튜플](!https://programmers.co.kr/learn/courses/30/lessons/64065)|🟡||
-|22.02.17| |[L2. 땅따먹기](!https://programmers.co.kr/learn/courses/30/lessons/12913)|🟡||
-|22.02.17| |[L2. 모음사전](!https://programmers.co.kr/learn/courses/30/lessons/84512)|🔴||
+|22.02.03|완전탐색|[1️⃣ 모의고사](!https://programmers.co.kr/learn/courses/30/lessons/42840)|🟢|🟢|
+|22.02.03| |[2️⃣ 소수 찾기](!https://programmers.co.kr/learn/courses/30/lessons/42839)|🟢|🟢|
+|22.02.03| |[2️⃣ 카펫](!https://programmers.co.kr/learn/courses/30/lessons/42842)|🟢|🟢|
+|22.02.05|탐욕법|[1️⃣ 체육복](!https://programmers.co.kr/learn/courses/30/lessons/42862)|🟢|🟢|
+|22.02.07| |[2️⃣ 조이스틱](!https://programmers.co.kr/learn/courses/30/lessons/42860)|🟢|🟢|
+|22.02.08| |[2️⃣ 큰 수 만들기](!https://programmers.co.kr/learn/courses/30/lessons/42883)|🟢|🟢|
+|22.02.09| |[2️⃣ 구명보트](!https://programmers.co.kr/learn/courses/30/lessons/42885)|🟢|🟢|
+|22.02.10|연습문제|[2️⃣ 오픈채팅방](!https://programmers.co.kr/learn/courses/30/lessons/42888)|🟢|🟢|
+|22.02.10| |[2️⃣ N개 최소공배수](!https://programmers.co.kr/learn/courses/30/lessons/12953)|🟢|🟢|
+|22.02.11| |[2️⃣ 멀쩡한 사각형](!https://programmers.co.kr/learn/courses/30/lessons/62048)|🟢|🔴|
+|22.02.11| |[2️⃣ 2개 이하로 다른 비트](!https://programmers.co.kr/learn/courses/30/lessons/77885)|🟡|🔴|
+|22.02.14| |[2️⃣ 영어 끝말잇기](!https://programmers.co.kr/learn/courses/30/lessons/12981)|🟢|🟢|
+|22.02.14| |[2️⃣ 짝지어 제거하기](!https://programmers.co.kr/learn/courses/30/lessons/12973)|🟢|🟢|
+|22.02.16| |[2️⃣ 튜플](!https://programmers.co.kr/learn/courses/30/lessons/64065)|🟡||
+|22.02.17| |[2️⃣ 땅따먹기](!https://programmers.co.kr/learn/courses/30/lessons/12913)|🟡||
+|22.02.17| |[2️⃣ 모음사전](!https://programmers.co.kr/learn/courses/30/lessons/84512)|🔴||
 |22.02.17| |[🥈5. 체스판 다시 칠하기](!https://www.acmicpc.net/problem/1018)|🟢||
 |22.02.18| |[🥈3️. N과M(2)](!https://www.acmicpc.net/problem/15650)|🟡||
 |22.02.18| |[🥈5. 날짜계산](!https://www.acmicpc.net/problem/1476)|🟢||
-|22.02.18| |[L2. 스킬트리](!https://programmers.co.kr/learn/courses/30/lessons/49993)|🟢||
+|22.02.18| |[2️⃣ 스킬트리](!https://programmers.co.kr/learn/courses/30/lessons/49993)|🟢||
 |22.02.19|정렬|[🥈5. 보물](!https://www.acmicpc.net/problem/1026)|🟢|🟢|
 |22.02.19| |[🥈5. 수정렬하기(2)](!https://www.acmicpc.net/problem/2751)|🟢|🟢|
 |22.02.19| |[🥈4. 숫자카드(2)](!https://www.acmicpc.net/problem/10816)|🟢|🟢|
