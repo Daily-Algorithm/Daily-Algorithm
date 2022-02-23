@@ -65,6 +65,16 @@
 |22.02.19|정렬|[🥈5. 보물](https://www.acmicpc.net/problem/1026)|🟢|🟢|
 |22.02.19| |[🥈5. 수정렬하기(2)](https://www.acmicpc.net/problem/2751)|🟢|🟢|
 |22.02.19| |[🥈4. 숫자카드(2)](https://www.acmicpc.net/problem/10816)|🟢|🟢|
+|22.02.20| |[🥈3. 시리얼번호](https://www.acmicpc.net/problem/1431)|🟡||
+|22.02.20| |[🥈3. 수리공 항승](https://www.acmicpc.net/problem/1449)|🟢||
+|22.02.20| |[🥈3. 두 수의 합](https://www.acmicpc.net/problem/3273)|🟢||
+|22.02.22| |[🥈3. 최고의 피자](https://www.acmicpc.net/problem/5545)|🟡||
+|22.02.22| |[🥈3. 토너먼트](https://www.acmicpc.net/problem/1057)|🟢||
+|22.02.22| |[🥈2. 회의실 배정](https://www.acmicpc.net/problem/1931)|||
+|22.02.23|그리디|[🥈3. 동전0](https://www.acmicpc.net/problem/11047)|🟢||
+|22.02.23| |[🥈3. 모두의 마블](https://www.acmicpc.net/problem/12845)|🟢||
+|22.02.23| |[🥈2. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|🟢||
+
 
 </div>
 </details>
