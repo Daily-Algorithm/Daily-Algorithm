@@ -23,15 +23,19 @@ public class BJ12845_모두의마블 {
 
 		int maxIdx = findMaxIdx(cards);
 		int level = cards.get(maxIdx);
-		int gold = 0;
-		// left sum
-		for (int i = 0; i < maxIdx; i++) {
-			gold += cards.get(i) + level;
-		}
-		for (int i = maxIdx+1; i < N; i++) {
-			gold += cards.get(i) + level;
-		}
+		int gold = level * (N - 1) + sumExceptMax(cards, maxIdx);
+
 		System.out.println(gold);
+	}
+
+	static int sumExceptMax(List<Integer> cards, int maxIdx) {
+		int sum = 0;
+		for (int i = 0; i < N; i++) {
+			if (i != maxIdx) {
+				sum += cards.get(i);
+			}
+		}
+		return sum;
 	}
 
 	static int findMaxIdx(List<Integer> cards) {
