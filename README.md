@@ -38,6 +38,28 @@
 
 <details>
 <summary>2022.02</summary>
+<div markdown="2022.03">       
+
+|날짜|유형|문제링크|이하정|신동은|
+|--------|------|---|:------:|:---:|
+|22.03.01|DFS, BFS|[🥈2.DFS와 BFS](https://www.acmicpc.net/problem/1260)|🟢||
+|22.03.01| |[🥈1.미로탐색](https://www.acmicpc.net/problem/2178)|🟢||
+|22.03.01| |[🥈3.바이러스](https://www.acmicpc.net/problem/2606)|🟢||
+|22.03.03| |[🥇5.로봇 청소기](https://www.acmicpc.net/problem/14503)|🟢||
+|22.03.03| |[🥇5.토마토](https://www.acmicpc.net/problem/7569)|🟡||
+|22.03.03| |[🥈1.단지 번호 붙이기](https://www.acmicpc.net/problem/2667)|🟢||
+|22.03.03| |[🥈2.촌수계산](https://www.acmicpc.net/problem/2644)|🟢||
+|22.03.03| |[🥈1.숨바꼭질](https://www.acmicpc.net/problem/1697)|🟢||
+|22.03.04| |[🥈1.안전영역](https://www.acmicpc.net/problem/2468)|🟢||
+|22.03.04| |[🥇4.빙산](https://www.acmicpc.net/problem/2573)|🟡||
+|22.03.04| |[🥇5.스타트링크](https://www.acmicpc.net/problem/14503)|🟢||
+|22.03.04| |[🥈1.맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
+    
+</div>
+</details>
+
+<details>
+<summary>2022.02</summary>
 <div markdown="2022.02">       
 
 |날짜|유형|문제링크|이하정|신동은|
@@ -73,8 +95,9 @@
 |22.02.22| |[🥈2. 회의실 배정](https://www.acmicpc.net/problem/1931)|🟢|🟡|
 |22.02.23|그리디|[🥈3. 동전0](https://www.acmicpc.net/problem/11047)|🟢|🟢|
 |22.02.23| |[🥈3. 모두의 마블](https://www.acmicpc.net/problem/12845)|🟢|🟢|
-|22.02.23| |[🥈2. 잃어버린 괄호](https://www.acmicpc.net/problem/1541)|🟢|🟡|
-
+|22.02.24|이진탐색|[🥇5. 공유기 설치](https://www.acmicpc.net/problem/2110)|🟡||
+|22.02.25| |[4️⃣. 가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|🔴||
+|22.02.25| |[🥈3. 나무 자르기](https://www.acmicpc.net/problem/2805)|🟡||
 
 </div>
 </details>
