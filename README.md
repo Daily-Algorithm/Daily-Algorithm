@@ -37,7 +37,7 @@
 - 각자 느낀 난이도를 🟢(풀만 함) 🟡(어렵게 품) 🔴(풀지 못함) 으로 표시
 
 <details>
-<summary>2022.02</summary>
+<summary>2022.03</summary>
 <div markdown="2022.03">       
 
 |날짜|유형|문제링크|이하정|신동은|
@@ -54,6 +54,17 @@
 |22.03.04| |[🥇4.빙산](https://www.acmicpc.net/problem/2573)|🟡||
 |22.03.04| |[🥇5.스타트링크](https://www.acmicpc.net/problem/14503)|🟢||
 |22.03.04| |[🥈1.맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
+|22.03.05|코딩테스트|Dev Matching|||
+|22.03.08|구현|[🥈4.반복수열](https://www.acmicpc.net/problem/2331)|🟢||
+|22.03.08|이진탐색|[🥈3.예산](https://www.acmicpc.net/problem/2512)|||
+|22.03.08|그리디|[🥇5.A와 B](https://www.acmicpc.net/problem/12904)|||
+|22.03.09||[🥈5.30](https://www.acmicpc.net/problem/10610)|🟢||
+|22.03.09|BF/DFS, BFS|[🥇5.연구소](https://www.acmicpc.net/problem/14502)|||
+|22.03.09|DFS, BFS|[🥇5.적록색약](https://www.acmicpc.net/problem/10026)|🟢||
+|22.03.11|그리디|[🥈4.병든 나이트](https://www.acmicpc.net/problem/1783)|||
+|22.03.11|DFS, BFS|[🥈2.순열 사이클](https://www.acmicpc.net/problem/10451)|🟢||
+|22.03.11|이진탐색|[🥈2.용돈 관리](https://www.acmicpc.net/problem/6236)|🟢||
+|22.03.12|코딩테스트|SKT ICT Family|||
     
 </div>
 </details>
