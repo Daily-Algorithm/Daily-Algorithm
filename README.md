@@ -40,31 +40,39 @@
 <summary>2022.03</summary>
 <div markdown="2022.03">       
 
-|날짜|유형|문제링크|이하정|신동은|
-|--------|------|---|:------:|:---:|
-|22.03.01|DFS, BFS|[🥈2.DFS와 BFS](https://www.acmicpc.net/problem/1260)|🟢||
-|22.03.01| |[🥈1.미로탐색](https://www.acmicpc.net/problem/2178)|🟢||
-|22.03.01| |[🥈3.바이러스](https://www.acmicpc.net/problem/2606)|🟢||
-|22.03.03| |[🥇5.로봇 청소기](https://www.acmicpc.net/problem/14503)|🟢||
-|22.03.03| |[🥇5.토마토](https://www.acmicpc.net/problem/7569)|🟡||
-|22.03.03| |[🥈1.단지 번호 붙이기](https://www.acmicpc.net/problem/2667)|🟢||
-|22.03.03| |[🥈2.촌수계산](https://www.acmicpc.net/problem/2644)|🟢||
-|22.03.03| |[🥈1.숨바꼭질](https://www.acmicpc.net/problem/1697)|🟢||
-|22.03.04| |[🥈1.안전영역](https://www.acmicpc.net/problem/2468)|🟢||
-|22.03.04| |[🥇4.빙산](https://www.acmicpc.net/problem/2573)|🟡||
-|22.03.04| |[🥇5.스타트링크](https://www.acmicpc.net/problem/14503)|🟢||
-|22.03.04| |[🥈1.맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
-|22.03.05|코딩테스트|Dev Matching|1/3||
-|22.03.08|구현|[🥈4.반복수열](https://www.acmicpc.net/problem/2331)|🟢||
-|22.03.08|이진탐색|[🥈3.예산](https://www.acmicpc.net/problem/2512)|||
-|22.03.08|그리디|[🥇5.A와 B](https://www.acmicpc.net/problem/12904)|||
-|22.03.09||[🥈5.30](https://www.acmicpc.net/problem/10610)|🟢||
-|22.03.09|BF/DFS, BFS|[🥇5.연구소](https://www.acmicpc.net/problem/14502)|🔴||
-|22.03.09|DFS, BFS|[🥇5.적록색약](https://www.acmicpc.net/problem/10026)|🟢||
-|22.03.11|그리디|[🥈4.병든 나이트](https://www.acmicpc.net/problem/1783)|||
-|22.03.11|DFS, BFS|[🥈2.순열 사이클](https://www.acmicpc.net/problem/10451)|🟢||
-|22.03.11|이진탐색|[🥈2.용돈 관리](https://www.acmicpc.net/problem/6236)|🟢||
-|22.03.12|코딩테스트|SKT ICT Family|3/4||
+|날짜|유형|Lv.|문제링크|이하정|신동은|
+|---|---|:--:|-------|:---:|:---:|
+|22.03.01|DFS, BFS|![](/BJ_tier_imgs/S2.png)|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|🟢||
+|22.03.01| |![](/BJ_tier_imgs/S1.png)|[미로탐색](https://www.acmicpc.net/problem/2178)|🟢||
+|22.03.01| |![](/BJ_tier_imgs/S3.png)|[바이러스](https://www.acmicpc.net/problem/2606)|🟢||
+|22.03.03| |![](/BJ_tier_imgs/G5.png)|[로봇 청소기](https://www.acmicpc.net/problem/14503)|🟢||
+|22.03.03| |![](/BJ_tier_imgs/G5.png)|[토마토](https://www.acmicpc.net/problem/7569)|🟡||
+|22.03.03| |![](/BJ_tier_imgs/S1.png)|[단지 번호 붙이기](https://www.acmicpc.net/problem/2667)|🟢||
+|22.03.03| |![](/BJ_tier_imgs/S2.png)|[촌수계산](https://www.acmicpc.net/problem/2644)|🟢||
+|22.03.03| |![](/BJ_tier_imgs/S1.png)|[숨바꼭질](https://www.acmicpc.net/problem/1697)|🟢||
+|22.03.04| |![](/BJ_tier_imgs/S1.png)|[안전영역](https://www.acmicpc.net/problem/2468)|🟢||
+|22.03.04| |![](/BJ_tier_imgs/G4.png)|[빙산](https://www.acmicpc.net/problem/2573)|🟡||
+|22.03.04| |![](/BJ_tier_imgs/G5.png)|[스타트링크](https://www.acmicpc.net/problem/14503)|🟢||
+|22.03.04| |![](/BJ_tier_imgs/S1.png)|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
+|22.03.05|코딩테스트||Dev Matching|1/3||
+|22.03.08|구현|![](/BJ_tier_imgs/S4.png)|[반복수열](https://www.acmicpc.net/problem/2331)|🟢||
+|22.03.08|이진탐색|![](/BJ_tier_imgs/S3.png)|[예산](https://www.acmicpc.net/problem/2512)|||
+|22.03.08|그리디|![](/BJ_tier_imgs/G5.png)|[A와 B](https://www.acmicpc.net/problem/12904)|||
+|22.03.09||![](/BJ_tier_imgs/S5.png)|[30](https://www.acmicpc.net/problem/10610)|🟢||
+|22.03.09|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[연구소](https://www.acmicpc.net/problem/14502)|🔴||
+|22.03.09||![](/BJ_tier_imgs/G5.png)|[적록색약](https://www.acmicpc.net/problem/10026)|🟢||
+|22.03.11|그리디|![](/BJ_tier_imgs/S4.png)|[병든 나이트](https://www.acmicpc.net/problem/1783)|||
+|22.03.11|DFS, BFS|![](/BJ_tier_imgs/S2.png)|[순열 사이클](https://www.acmicpc.net/problem/10451)|🟢||
+|22.03.11|이진탐색|![](/BJ_tier_imgs/S2.png)|[용돈 관리](https://www.acmicpc.net/problem/6236)|🟢||
+|22.03.12|코딩테스트||SKT ICT Family|3/4||
+|22.03.15|그리디|![](/BJ_tier_imgs/G4.png)|[수묶기](https://www.acmicpc.net/problem/1744)|🟢||
+|22.03.15|DFS, BFS|![](/BJ_tier_imgs/G3.png)|[로봇](https://www.acmicpc.net/problem/1726)|🟡||
+|22.03.16|이진탐색|![](/BJ_tier_imgs/S1.png)|[기타레슨](https://www.acmicpc.net/problem/2343)|🟢||
+|22.03.16|DP|![](/BJ_tier_imgs/S3.png)|[퇴사](https://www.acmicpc.net/problem/14501)|🟡||
+|22.03.16| |![](/BJ_tier_imgs/S1.png)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|🟢||
+|22.03.17|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|🟡||
+|22.03.17| |![](/BJ_tier_imgs/G4.png)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|🟡||
+|22.03.17|DP|![](/BJ_tier_imgs/.png)|[2xN 타일링](https://www.acmicpc.net/problem/11726)|🟢||
     
 </div>
 </details>
