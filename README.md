@@ -72,7 +72,8 @@
 |22.03.16| |![](/BJ_tier_imgs/S1.png)|[정수 삼각형](https://www.acmicpc.net/problem/1932)|🟢||
 |22.03.17|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[Puyo Puyo](https://www.acmicpc.net/problem/11559)|🟡||
 |22.03.17| |![](/BJ_tier_imgs/G4.png)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|🟡||
-|22.03.17|DP|![](/BJ_tier_imgs/.png)|[2xN 타일링](https://www.acmicpc.net/problem/11726)|🟢||
+|22.03.17|DP|![](/BJ_tier_imgs/S3.png)|[2xN 타일링](https://www.acmicpc.net/problem/11726)|🟢||
+
     
 </div>
 </details>
