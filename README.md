@@ -64,7 +64,7 @@
 |22.03.11|그리디|![](/BJ_tier_imgs/S4.png)|[병든 나이트](https://www.acmicpc.net/problem/1783)|||
 |22.03.11|DFS, BFS|![](/BJ_tier_imgs/S2.png)|[순열 사이클](https://www.acmicpc.net/problem/10451)|🟢||
 |22.03.11|이진탐색|![](/BJ_tier_imgs/S2.png)|[용돈 관리](https://www.acmicpc.net/problem/6236)|🟢||
-|22.03.12|코딩테스트||SKT ICT Family|3/4||
+|22.03.12|코딩테스트||SKT ICT Family 1차|3/4||
 |22.03.15|그리디|![](/BJ_tier_imgs/G4.png)|[수묶기](https://www.acmicpc.net/problem/1744)|🟢||
 |22.03.15|DFS, BFS|![](/BJ_tier_imgs/G3.png)|[로봇](https://www.acmicpc.net/problem/1726)|🟡||
 |22.03.16|이진탐색|![](/BJ_tier_imgs/S1.png)|[기타레슨](https://www.acmicpc.net/problem/2343)|🟢||
@@ -76,6 +76,10 @@
 |22.03.18|구현|![](/BJ_tier_imgs/S5.png)|[CPU](https://www.acmicpc.net/problem/16506)|🟢||
 |22.03.18|DP|![](/BJ_tier_imgs/G4.png)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|||
 |22.03.18|DFS, BFS|![](/BJ_tier_imgs/S2.png)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🟡||
+|22.03.19|코딩테스트||SKT ICT Family 2차|1.5/4||
+|22.03.22|DP|![](/BJ_tier_imgs/S3.png)|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|🟡||
+|22.03.22|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[빗물](https://www.acmicpc.net/problem/14719)|🟢||
+|22.03.22|BF|![](/BJ_tier_imgs/S1.png)|[현명한 나이트](https://www.acmicpc.net/problem/18404)|🟢||
 
     
 </div>
