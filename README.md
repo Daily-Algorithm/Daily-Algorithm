@@ -80,7 +80,9 @@
 |22.03.22|DP|![](/BJ_tier_imgs/S3.png)|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|🟡||
 |22.03.22|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[빗물](https://www.acmicpc.net/problem/14719)|🟢||
 |22.03.22|BF|![](/BJ_tier_imgs/S1.png)|[현명한 나이트](https://www.acmicpc.net/problem/18404)|🟢||
-
+|22.03.23|BF|![](/BJ_tier_imgs/G4.png)|[감시](https://www.acmicpc.net/problem/15683)|🔴||
+|22.03.23|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[치즈](https://www.acmicpc.net/problem/2636)|🟡||
+|22.03.2|DP|![](/BJ_tier_imgs/S2.png)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🟢||
     
 </div>
 </details>
