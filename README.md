@@ -56,16 +56,16 @@
 |22.03.04| |![](/BJ_tier_imgs/S1.png)|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
 |22.03.05|코딩테스트||Dev Matching|1/3||
 |22.03.08|구현|![](/BJ_tier_imgs/S4.png)|[반복수열](https://www.acmicpc.net/problem/2331)|🟢||
-|22.03.08|이진탐색|![](/BJ_tier_imgs/S3.png)|[예산](https://www.acmicpc.net/problem/2512)|||
-|22.03.08|그리디|![](/BJ_tier_imgs/G5.png)|[A와 B](https://www.acmicpc.net/problem/12904)|||
-|22.03.09||![](/BJ_tier_imgs/S5.png)|[30](https://www.acmicpc.net/problem/10610)|🟢||
+|22.03.08|이진탐색|![](/BJ_tier_imgs/S3.png)|[예산](https://www.acmicpc.net/problem/2512)||🟡|
+|22.03.08|그리디|![](/BJ_tier_imgs/G5.png)|[A와 B](https://www.acmicpc.net/problem/12904)||🟢|
+|22.03.09||![](/BJ_tier_imgs/S5.png)|[30](https://www.acmicpc.net/problem/10610)|🟢|🔴|
 |22.03.09|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[연구소](https://www.acmicpc.net/problem/14502)|🔴||
 |22.03.09||![](/BJ_tier_imgs/G5.png)|[적록색약](https://www.acmicpc.net/problem/10026)|🟢||
 |22.03.11|그리디|![](/BJ_tier_imgs/S4.png)|[병든 나이트](https://www.acmicpc.net/problem/1783)|||
 |22.03.11|DFS, BFS|![](/BJ_tier_imgs/S2.png)|[순열 사이클](https://www.acmicpc.net/problem/10451)|🟢||
 |22.03.11|이진탐색|![](/BJ_tier_imgs/S2.png)|[용돈 관리](https://www.acmicpc.net/problem/6236)|🟢||
 |22.03.12|코딩테스트||SKT ICT Family 1차|3/4||
-|22.03.15|그리디|![](/BJ_tier_imgs/G4.png)|[수묶기](https://www.acmicpc.net/problem/1744)|🟢||
+|22.03.15|그리디|![](/BJ_tier_imgs/G4.png)|[수묶기](https://www.acmicpc.net/problem/1744)|🟢|🟡|
 |22.03.15|DFS, BFS|![](/BJ_tier_imgs/G3.png)|[로봇](https://www.acmicpc.net/problem/1726)|🟡||
 |22.03.16|이진탐색|![](/BJ_tier_imgs/S1.png)|[기타레슨](https://www.acmicpc.net/problem/2343)|🟢||
 |22.03.16|DP|![](/BJ_tier_imgs/S3.png)|[퇴사](https://www.acmicpc.net/problem/14501)|🟡||
