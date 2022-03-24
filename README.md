@@ -55,7 +55,7 @@
 |22.03.04| |![](/BJ_tier_imgs/G5.png)|[스타트링크](https://www.acmicpc.net/problem/14503)|🟢||
 |22.03.04| |![](/BJ_tier_imgs/S1.png)|[맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)|🟡||
 |22.03.05|코딩테스트||Dev Matching|1/3||
-|22.03.08|구현|![](/BJ_tier_imgs/S4.png)|[반복수열](https://www.acmicpc.net/problem/2331)|🟢||
+|22.03.08|구현|![](/BJ_tier_imgs/S4.png)|[반복수열](https://www.acmicpc.net/problem/2331)|🟢|🟢|
 |22.03.08|이진탐색|![](/BJ_tier_imgs/S3.png)|[예산](https://www.acmicpc.net/problem/2512)||🟡|
 |22.03.08|그리디|![](/BJ_tier_imgs/G5.png)|[A와 B](https://www.acmicpc.net/problem/12904)||🟢|
 |22.03.09||![](/BJ_tier_imgs/S5.png)|[30](https://www.acmicpc.net/problem/10610)|🟢|🔴|
