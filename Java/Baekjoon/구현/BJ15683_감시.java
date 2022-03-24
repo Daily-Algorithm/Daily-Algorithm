@@ -9,7 +9,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class BJ15683_감시_F01 {
+public class BJ15683_감시 {
 	static int width, height, answer;
 	static int[][] map;
 	static Cctv[] cctvs = new Cctv[8];
@@ -32,6 +32,7 @@ public class BJ15683_감시_F01 {
 			this.num = num;
 		}
 	}
+
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(in));
@@ -42,7 +43,7 @@ public class BJ15683_감시_F01 {
 		map = new int[width][height];
 		for (int y = 0; y < height; y++) {
 			st = new StringTokenizer(br.readLine(), " ");
-			for (int x = 0; x < height; x++) {
+			for (int x = 0; x < width; x++) {
 				map[x][y] = Integer.parseInt(st.nextToken());
 				if (map[x][y] >= 1 && map[x][y] <= 5) {
 					cctvs[cctvCnt] = new Cctv(x, y, map[x][y]);
@@ -59,6 +60,7 @@ public class BJ15683_감시_F01 {
 		out.println(answer);
 	}
 
+	// cctv 4개 -> idx 1 cctv ~ idx 4 cctv
 	private static void permutation(int idx, int remain, int[][] map) {
 		if (idx == cctvCnt) {
 			// 모든 cctv를 확인한 상태면
