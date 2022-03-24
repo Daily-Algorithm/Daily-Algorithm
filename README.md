@@ -108,7 +108,7 @@
 |22.02.11| |[2️⃣ 2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)|🟡|🔴|
 |22.02.14| |[2️⃣ 영어 끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|🟢|🟢|
 |22.02.14| |[2️⃣ 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973)|🟢|🟢|
-|22.02.16| |[2️⃣ 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|🟡||
+|22.02.16| |[2️⃣ 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)|🟡|🟢|
 |22.02.17| |[2️⃣ 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|🟡||
 |22.02.17| |[2️⃣ 모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|🔴||
 |22.02.17| |[🥈5. 체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)|🟢||
@@ -128,7 +128,7 @@
 |22.02.23| |[🥈3. 모두의 마블](https://www.acmicpc.net/problem/12845)|🟢|🟢|
 |22.02.24|이진탐색|[🥇5. 공유기 설치](https://www.acmicpc.net/problem/2110)|🟡||
 |22.02.25| |[4️⃣. 가사검색](https://programmers.co.kr/learn/courses/30/lessons/60060)|🔴||
-|22.02.25| |[🥈3. 나무 자르기](https://www.acmicpc.net/problem/2805)|🟡||
+|22.02.25| |[🥈3. 나무 자르기](https://www.acmicpc.net/problem/2805)|🟡|🟡|
 
 </div>
 </details>
