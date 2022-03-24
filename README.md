@@ -74,17 +74,17 @@
 |22.03.17| |![](/BJ_tier_imgs/G4.png)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|🟡||
 |22.03.17|DP|![](/BJ_tier_imgs/S3.png)|[2xN 타일링](https://www.acmicpc.net/problem/11726)|🟢||
 |22.03.18|구현|![](/BJ_tier_imgs/S5.png)|[CPU](https://www.acmicpc.net/problem/16506)|🟢||
-|22.03.18|DP|![](/BJ_tier_imgs/G4.png)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|||
-|22.03.18|DFS, BFS|![](/BJ_tier_imgs/S2.png)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🟡||
-|22.03.19|코딩테스트||SKT ICT Family 2차|1.5/4||
-|22.03.22|DP|![](/BJ_tier_imgs/S3.png)|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|🟡||
-|22.03.22|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[빗물](https://www.acmicpc.net/problem/14719)|🟢||
+|22.03.18|DP|![](/BJ_tier_imgs/G4.png)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)||🟡|
+|22.03.18|DFS, BFS|![](/BJ_tier_imgs/S2.png)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🟡|🟡|
+|22.03.19|코딩테스트||SKT ICT Family 2차|1.5/4|0.5/4|
+|22.03.22|DP|![](/BJ_tier_imgs/S3.png)|[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)|🟡|🟢|
+|22.03.22|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[빗물](https://www.acmicpc.net/problem/14719)|🟢|🔴|
 |22.03.22|BF|![](/BJ_tier_imgs/S1.png)|[현명한 나이트](https://www.acmicpc.net/problem/18404)|🟢||
-|22.03.23|BF|![](/BJ_tier_imgs/G4.png)|[감시](https://www.acmicpc.net/problem/15683)|🔴||
-|22.03.23|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[치즈](https://www.acmicpc.net/problem/2636)|🟡||
-|22.03.23|DP|![](/BJ_tier_imgs/S2.png)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🟢||
-|22.03.24|DP|![](/BJ_tier_imgs/G4.png)|[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)|🟢||
-|22.03.24|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🟢||
+|22.03.23|BF|![](/BJ_tier_imgs/G4.png)|[감시](https://www.acmicpc.net/problem/15683)|🔴|🔴|
+|22.03.23|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[치즈](https://www.acmicpc.net/problem/2636)|🟡|🟡|
+|22.03.23|DP|![](/BJ_tier_imgs/S2.png)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🟢|🟢|
+|22.03.24|DP|![](/BJ_tier_imgs/G4.png)|[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)|🟢|🟢|
+|22.03.24|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🟢|🟡|
     
 </div>
 </details>
