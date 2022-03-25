@@ -85,8 +85,8 @@
 |22.03.23|DP|![](/BJ_tier_imgs/S2.png)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|🟢|🟢|
 |22.03.24|DP|![](/BJ_tier_imgs/G4.png)|[가장 긴 증가하는 부분 수열 4](https://www.acmicpc.net/problem/14002)|🟢|🟢|
 |22.03.24|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🟢|🟡|
-<!-- |22.03.25|DFS, BFS|![](/PG_tier_imgs/L2.png)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|🟢|| -->
-<!-- |22.03.25|연습문제|![](/PG_tier_imgs/L2.png)|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|🟡|| -->
+|22.03.25|DFS, BFS|![](/PG_tier_imgs/L2.png)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|🟢||
+|22.03.25|연습문제|![](/PG_tier_imgs/L2.png)|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|🟡||
     
 </div>
 </details>
