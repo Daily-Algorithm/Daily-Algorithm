@@ -87,7 +87,9 @@
 |22.03.24|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)|🟢|🟡|
 |22.03.25|DFS, BFS|![](/PG_tier_imgs/L2.png)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|🟢||
 |22.03.25|연습문제|![](/PG_tier_imgs/L2.png)|[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|🟡||
-|22.03.26|코딩테스트||라인 플러스|3.5/6||
+|22.03.26|코딩테스트||라인 플러스|3/6||
+|22.03.30|연습문제|![](/PG_tier_imgs/L2.png)|[행렬 테두리 회전](https://programmers.co.kr/learn/courses/30/lessons/77485)|🟢||
+|22.03.30|연습문제|![](/PG_tier_imgs/L3.png)|[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)|🟢||
     
 </div>
 </details>
