@@ -41,7 +41,10 @@
 
 |No.|날짜|유형|Lv.|문제링크|이하정|신동은|
 |:-:|---|---|:--:|-------|:---:|:---:|
-<!-- |1|22.04.01||![](/BJ_tier_imgs/S2.png)|[]()|🟢|| -->
+|1|22.04.01|순열조합|![](/BJ_tier_imgs/G5.png)|[암호 만들기](https://www.acmicpc.net/problem/1759)|🟢||
+|2|22.04.01|순열조합|![](/BJ_tier_imgs/S3.png)|[N과 M (1)](https://www.acmicpc.net/problem/15649)|🟢||
+|3|22.04.07|DFS, BFS|![](/BJ_tier_imgs/G3.png)|[다리만들기](https://www.acmicpc.net/problem/2146)|🟡||
+|4|22.04.07|연습문제|![](/PG_tier_imgs/L2.png)|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|🔴||
     
 </div>
 </details>
