@@ -45,7 +45,8 @@
 |2|22.04.01|순열조합|![](/BJ_tier_imgs/S3.png)|[N과 M (1)](https://www.acmicpc.net/problem/15649)|🟢||
 |3|22.04.07|DFS, BFS|![](/BJ_tier_imgs/G3.png)|[다리만들기](https://www.acmicpc.net/problem/2146)|🟡||
 |4|22.04.07|연습문제|![](/PG_tier_imgs/L2.png)|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|🔴||
-    
+|5|22.04.09|순열조합|![](/BJ_tier_imgs/S2.png)|[N과 M (9)](https://www.acmicpc.net/problem/15663)|🟢||
+
 </div>
 </details>
 
