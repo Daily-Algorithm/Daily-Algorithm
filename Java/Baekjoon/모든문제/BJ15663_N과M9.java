@@ -3,7 +3,6 @@ package 모든문제;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
@@ -20,9 +19,6 @@ import java.util.stream.Collectors;
 
 public class BJ15663_N과M9 {
 	static FastReader scan = new FastReader();
-	//정답은 sb에 append 를 사용하여 출력
-	//만약 개행까지 출력하고 싶으면 append('\n')을 추가
-	static StringBuilder sb = new StringBuilder();
 	static int N, M;
 	static String[] arr;
 	static boolean[] visited;
@@ -34,10 +30,10 @@ public class BJ15663_N과M9 {
 	}
 
 	private static void printAnswers() {
-		List<String> strings = new ArrayList<>(answers);
-		List<String[]> arrs = strings.stream()
+		List<String[]> arrs = answers.stream()
 										.map(str -> str.split(" "))
 										.collect(Collectors.toList());
+
 		Collections.sort(arrs, new Comparator<String[]>() {
 			@Override
 			public int compare(String[] o1, String[] o2) {
