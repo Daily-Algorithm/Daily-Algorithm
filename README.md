@@ -47,7 +47,7 @@
 |4|22.04.07|연습문제|![](/PG_tier_imgs/L2.png)|[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|🔴||
 |5|22.04.09|순열조합|![](/BJ_tier_imgs/S2.png)|[N과 M (9)](https://www.acmicpc.net/problem/15663)|🟢||
 |6|22.04.15|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[숨바꼭질 4](https://www.acmicpc.net/problem/13913)|🟢||
-|7|22.04.15|구현|![](/PG_tier_imgs/L2.png)|[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|🟡|🟢|
+|7|22.04.15|구현|![](/PG_tier_imgs/L2.png)|[방금그곡](https://programmers.co.kr/learn/courses/30/lessons/17683)|🟢|🟢|
 |8|22.04.15|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[이모티콘](https://www.acmicpc.net/problem/14226)|🟢|🟡|
 
 </div>
