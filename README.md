@@ -51,8 +51,8 @@
 |8|22.04.15|DFS, BFS|![](/BJ_tier_imgs/G4.png)|[이모티콘](https://www.acmicpc.net/problem/14226)|🟢|🟡|
 |9|22.04.18|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[숨바꼭질3](https://www.acmicpc.net/problem/13549)|🟡|🟢|
 |10|22.04.18|순열조합|![](/PG_tier_imgs/L2.png)|[메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|🟢|🟢|
-|11|22.04.20|구현|![](/PG_tier_imgs/L2.png)|[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)||🟡|    
-|12|22.04.20|BFSDFS|![](/PG_tier_imgs/L3.png)|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)||🟡|  
+|11|22.04.20|BFSDFS|![](/PG_tier_imgs/L3.png)|[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)||🟡|    
+|12|22.04.20|구현|![](/PG_tier_imgs/L2.png)|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)||🟡|  
     
 </div>
 </details>
