@@ -1,4 +1,4 @@
-package 모든문제;
+package 순열조합;
 
 import java.io.BufferedReader;
 import java.io.IOException;
