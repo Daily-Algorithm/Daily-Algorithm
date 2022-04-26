@@ -55,6 +55,8 @@
 |12|22.04.20|구현|![](/PG_tier_imgs/L2.png)|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|🟢|🟡|
 |13|22.04.23|순열조합|![](/BJ_tier_imgs/G3.png)|[소문난 칠공주](https://www.acmicpc.net/problem/1941)|🟡||
 |14|22.04.24|DFS, BFS|![](/PG_tier_imgs/L2.png)|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|🟢||  
+|15|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|🟢||  
+|16|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[n^2배열자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|🟡||  
     
 </div>
 </details>
