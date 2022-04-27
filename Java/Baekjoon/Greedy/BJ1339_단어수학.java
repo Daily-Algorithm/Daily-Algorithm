@@ -1,4 +1,4 @@
-package 순열조합;
+package Greedy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
