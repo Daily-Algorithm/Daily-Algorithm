@@ -57,6 +57,8 @@
 |14|22.04.24|DFS, BFS|![](/PG_tier_imgs/L2.png)|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|🟢||  
 |15|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|🟢||  
 |16|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[n^2배열자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|🟡||  
+|17|22.04.27|구현|![](/PG_tier_imgs/L1.png)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🟢||  
+|18|22.04.27|그리디|![](/BJ_tier_imgs/G4.png)|[단어 수학](https://www.acmicpc.net/problem/1339)|🟢||  
     
 </div>
 </details>
