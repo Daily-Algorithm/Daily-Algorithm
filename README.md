@@ -53,12 +53,12 @@
 |10|22.04.18|순열조합|![](/PG_tier_imgs/L2.png)|[메뉴리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)|🟢|🟢|
 |11|22.04.20|BFSDFS|![](/PG_tier_imgs/L3.png)|[단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|🟢|🟡|    
 |12|22.04.20|구현|![](/PG_tier_imgs/L2.png)|[프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)|🟢|🟡|
-|13|22.04.23|순열조합|![](/BJ_tier_imgs/G3.png)|[소문난 칠공주](https://www.acmicpc.net/problem/1941)|🟡||
-|14|22.04.24|DFS, BFS|![](/PG_tier_imgs/L2.png)|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|🟢||  
-|15|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|🟢||  
-|16|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[n^2배열자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|🟡||  
-|17|22.04.27|구현|![](/PG_tier_imgs/L1.png)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🟢||  
-|18|22.04.27|그리디|![](/BJ_tier_imgs/G4.png)|[단어 수학](https://www.acmicpc.net/problem/1339)|🟢||  
+|13|22.04.23|순열조합|![](/BJ_tier_imgs/G3.png)|[소문난 칠공주](https://www.acmicpc.net/problem/1941)|🟡|🔴|
+|14|22.04.24|DFS, BFS|![](/PG_tier_imgs/L2.png)|[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|🟢|🟢|  
+|15|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[압축](https://programmers.co.kr/learn/courses/30/lessons/17684)|🟢|🟢|  
+|16|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[n^2배열자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|🟡|🟢|  
+|17|22.04.27|구현|![](/PG_tier_imgs/L1.png)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🟢|🟢|  
+|18|22.04.27|그리디|![](/BJ_tier_imgs/G4.png)|[단어 수학](https://www.acmicpc.net/problem/1339)|🟢|🔴|  
     
 </div>
 </details>
