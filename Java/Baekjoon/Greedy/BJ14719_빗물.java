@@ -1,4 +1,4 @@
-package BruteForce;
+package Greedy;
 
 import static java.lang.System.*;
 
