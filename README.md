@@ -59,6 +59,9 @@
 |16|22.04.26|구현|![](/PG_tier_imgs/L2.png)|[n^2배열자르기](https://programmers.co.kr/learn/courses/30/lessons/87390)|🟡|🟢|  
 |17|22.04.27|구현|![](/PG_tier_imgs/L1.png)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🟢|🟢|  
 |18|22.04.27|그리디|![](/BJ_tier_imgs/G4.png)|[단어 수학](https://www.acmicpc.net/problem/1339)|🟢|🔴|  
+|19|22.04.29|순열조합|![](/PG_tier_imgs/L2.png)|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|🟢||  
+|20|22.05.02|구현|![](/PG_tier_imgs/L2.png)|[K진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|🟢||  
+|21|22.05.02|큐, 구현|![](/PG_tier_imgs/L3.png)|[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|🟢||  
     
 </div>
 </details>
