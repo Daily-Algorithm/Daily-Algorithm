@@ -41,6 +41,22 @@
 
 |No.|날짜|유형|Lv.|문제링크|이하정|신동은|
 |:-:|---|---|:--:|-------|:---:|:---:|
+|1|22.05.02|구현|![](/PG_tier_imgs/L2.png)|[K진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|🟢||  
+|2|22.05.02|큐, 구현|![](/PG_tier_imgs/L3.png)|[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|🟢||   
+|3|22.05.03|구현|![](/PG_tier_imgs/L2.png)|[뉴스클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|🟢||   
+|4|22.05.03|구현|![](/PG_tier_imgs/L3.png)|[표편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|🟢||   
+|5|22.05.04|구현|![](/PG_tier_imgs/L2.png)|[주차요금](https://programmers.co.kr/learn/courses/30/lessons/92341)|🟢||
+|6|22.05.08|코딩테스트||썸머코딩|1.5/4||   
+    
+</div>
+</details>
+
+<details>
+<summary>2022.04</summary>
+<div markdown="2022.04">       
+
+|No.|날짜|유형|Lv.|문제링크|이하정|신동은|
+|:-:|---|---|:--:|-------|:---:|:---:|
 |1|22.04.01|순열조합|![](/BJ_tier_imgs/G5.png)|[암호 만들기](https://www.acmicpc.net/problem/1759)|🟢||
 |2|22.04.01|순열조합|![](/BJ_tier_imgs/S3.png)|[N과 M (1)](https://www.acmicpc.net/problem/15649)|🟢||
 |3|22.04.07|DFS, BFS|![](/BJ_tier_imgs/G3.png)|[다리만들기](https://www.acmicpc.net/problem/2146)|🟡||
@@ -60,8 +76,6 @@
 |17|22.04.27|구현|![](/PG_tier_imgs/L1.png)|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)|🟢|🟢|  
 |18|22.04.27|그리디|![](/BJ_tier_imgs/G4.png)|[단어 수학](https://www.acmicpc.net/problem/1339)|🟢|🔴|  
 |19|22.04.29|순열조합|![](/PG_tier_imgs/L2.png)|[양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)|🟢||  
-|20|22.05.02|구현|![](/PG_tier_imgs/L2.png)|[K진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335)|🟢||  
-|21|22.05.02|큐, 구현|![](/PG_tier_imgs/L3.png)|[셔틀버스](https://programmers.co.kr/learn/courses/30/lessons/17678)|🟢||  
     
 </div>
 </details>
