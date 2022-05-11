@@ -50,9 +50,9 @@
 |3|22.05.03|구현|![](/PG_tier_imgs/L2.png)|[뉴스클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|🟢||   
 |4|22.05.03|구현|![](/PG_tier_imgs/L3.png)|[표편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|🟢||   
 |5|22.05.04|구현|![](/PG_tier_imgs/L2.png)|[주차요금](https://programmers.co.kr/learn/courses/30/lessons/92341)|🟢||
-|6|22.05.08|코딩테스트||썸머코딩|1.5/4||
-|7|22.05.10|구현|![](/PG_tier_imgs/L2.png)|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|🟡||
-|8|22.05.11|조합|![](/PG_tier_imgs/L2.png)|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🟡||
+|6|22.05.08|코딩테스트||썸머코딩|1.5/4|3/4|
+|7|22.05.10|구현|![](/PG_tier_imgs/L2.png)|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|🟡|🟡|
+|8|22.05.11|조합|![](/PG_tier_imgs/L2.png)|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🟡|🟡|
     
 </div>
 </details>
