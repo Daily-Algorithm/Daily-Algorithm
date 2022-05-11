@@ -35,6 +35,10 @@
 
 ## 👊🏼 문제 List
 - 각자 느낀 난이도를 🟢(풀만 함) 🟡(어렵게 품) 🔴(풀지 못함) 으로 표시
+<!-- 
+||22.05.||![](/PG_tier_imgs/L2.png)|[](https://programmers.co.kr/learn/courses/30/lessons/)|| 
+||22.05.||![](/BJ_tier_imgs/G2.png)|[](https://www.acmicpc.net/problem/1759)|| 
+-->
 <details>
 <summary>2022.05</summary>
 <div markdown="2022.05">       
@@ -46,7 +50,8 @@
 |3|22.05.03|구현|![](/PG_tier_imgs/L2.png)|[뉴스클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|🟢||   
 |4|22.05.03|구현|![](/PG_tier_imgs/L3.png)|[표편집](https://programmers.co.kr/learn/courses/30/lessons/81303)|🟢||   
 |5|22.05.04|구현|![](/PG_tier_imgs/L2.png)|[주차요금](https://programmers.co.kr/learn/courses/30/lessons/92341)|🟢||
-|6|22.05.08|코딩테스트||썸머코딩|1.5/4||   
+|6|22.05.08|코딩테스트||썸머코딩|1.5/4||
+|7|22.05.10|구현|![](/PG_tier_imgs/L2.png)|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|🟡||
     
 </div>
 </details>
