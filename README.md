@@ -53,6 +53,7 @@
 |6|22.05.08|코딩테스트||썸머코딩|1.5/4|3/4|
 |7|22.05.10|구현|![](/PG_tier_imgs/L2.png)|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|🟡|🟡|
 |8|22.05.11|조합|![](/PG_tier_imgs/L2.png)|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🟡|🟡|
+|9|22.05.12|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[뱀과 사다리게임](https://programmers.co.kr/learn/courses/30/lessons/16928)|🟢||
     
 </div>
 </details>
