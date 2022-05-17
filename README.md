@@ -56,6 +56,9 @@
 |9|22.05.12|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[뱀과 사다리게임](https://www.acmicpc.net/problem/16928)|🟢||
 |10|22.05.13|구현|![](/BJ_tier_imgs/G3.png)|[경사로](https://www.acmicpc.net/problem/14890)|🟡||
 |11|22.05.14|KMP|![](/BJ_tier_imgs/G3.png)|[부분 문자열](https://www.acmicpc.net/problem/16916)|🔴||
+|12|22.05.16|비트마스킹|![](/BJ_tier_imgs/G4.png)|[가르침](https://www.acmicpc.net/problem/1062)|🔴||
+|13|22.05.17|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[4연산](https://www.acmicpc.net/problem/14395)|🟢||
+
     
 </div>
 </details>
