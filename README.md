@@ -53,11 +53,11 @@
 |6|22.05.08|코딩테스트||썸머코딩|1.5/4|3/4|
 |7|22.05.10|구현|![](/PG_tier_imgs/L2.png)|[파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|🟡|🟡|
 |8|22.05.11|조합|![](/PG_tier_imgs/L2.png)|[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🟡|🟡|
-|9|22.05.12|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[뱀과 사다리게임](https://www.acmicpc.net/problem/16928)|🟢||
-|10|22.05.13|구현|![](/BJ_tier_imgs/G3.png)|[경사로](https://www.acmicpc.net/problem/14890)|🟡||
+|9|22.05.12|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[뱀과 사다리게임](https://www.acmicpc.net/problem/16928)|🟢|🟢|
+|10|22.05.13|구현|![](/BJ_tier_imgs/G3.png)|[경사로](https://www.acmicpc.net/problem/14890)|🟡|🔴|
 |11|22.05.14|KMP|![](/BJ_tier_imgs/G3.png)|[부분 문자열](https://www.acmicpc.net/problem/16916)|🔴||
 |12|22.05.16|비트마스킹|![](/BJ_tier_imgs/G4.png)|[가르침](https://www.acmicpc.net/problem/1062)|🔴||
-|13|22.05.17|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[4연산](https://www.acmicpc.net/problem/14395)|🟢||
+|13|22.05.17|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[4연산](https://www.acmicpc.net/problem/14395)|🟢|🟢|
 
     
 </div>
