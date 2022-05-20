@@ -59,6 +59,7 @@
 |12|22.05.16|비트마스킹|![](/BJ_tier_imgs/G4.png)|[가르침](https://www.acmicpc.net/problem/1062)|🔴||
 |13|22.05.17|DFS, BFS|![](/BJ_tier_imgs/G5.png)|[4연산](https://www.acmicpc.net/problem/14395)|🟢|🟢|
 |14|22.05.18|구현|![](/BJ_tier_imgs/G4.png)|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|🟢|🟢|
+|15|22.05.20|구현|![](/BJ_tier_imgs/G5.png)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|🟡||
 
     
 </div>
