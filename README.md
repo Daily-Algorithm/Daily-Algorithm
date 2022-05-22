@@ -61,6 +61,7 @@
 |14|22.05.18|구현|![](/BJ_tier_imgs/G4.png)|[주사위 굴리기](https://www.acmicpc.net/problem/14499)|🟢|🟢|
 |15|22.05.20|구현|![](/BJ_tier_imgs/G5.png)|[톱니바퀴](https://www.acmicpc.net/problem/14891)|🟡||
 |16|22.05.21|구현|![](/PG_tier_imgs/L2.png)|[삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|🟢||
+|16|22.05.22|구현|![](/PG_tier_imgs/L2.png)|[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680?language=swift)||🟢|
 
     
 </div>
