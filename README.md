@@ -65,7 +65,7 @@
 |18|22.05.25|구현|![](/BJ_tier_imgs/G4.png)|[미로만들기](https://www.acmicpc.net/problem/2665)|🔴||
 |19|22.05.26|구현|![](/BJ_tier_imgs/G4.png)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|🟢|🟡|
 |20|22.05.27|그리디|![](/BJ_tier_imgs/G4.png)|[AB](https://www.acmicpc.net/problem/12970)|🟢|🟢|
-|21|22.05.28|구현|![](/BJ_tier_imgs/G4.png)|[배열 돌리기 4]([https://www.acmicpc.net/problem/12970](https://www.acmicpc.net/problem/17406))||🟢|
+|21|22.05.28|구현|![](/BJ_tier_imgs/G4.png)|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)||🟢|
     
 </div>
 </details>
