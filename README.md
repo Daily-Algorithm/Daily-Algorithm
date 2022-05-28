@@ -63,8 +63,8 @@
 |16|22.05.21|구현|![](/PG_tier_imgs/L2.png)|[삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|🟢||
 |17|22.05.22|구현|![](/PG_tier_imgs/L2.png)|[캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)|🟢|🟢|
 |18|22.05.25|구현|![](/BJ_tier_imgs/G4.png)|[미로만들기](https://www.acmicpc.net/problem/2665)|🔴||
-|19|22.05.26|구현|![](/BJ_tier_imgs/G4.png)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|🟢||
-|20|22.05.27|그리디|![](/BJ_tier_imgs/G4.png)|[AB](https://www.acmicpc.net/problem/12970)|🟢||
+|19|22.05.26|구현|![](/BJ_tier_imgs/G4.png)|[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)|🟢|🟡|
+|20|22.05.27|그리디|![](/BJ_tier_imgs/G4.png)|[AB](https://www.acmicpc.net/problem/12970)|🟢|🟢|
 
     
 </div>
