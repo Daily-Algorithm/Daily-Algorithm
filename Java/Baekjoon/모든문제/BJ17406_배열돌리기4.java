@@ -1,24 +1,17 @@
 package 모든문제;
 
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
 public class BJ17406_배열돌리기4 {
 	static FastReader scan = new FastReader();
 	static int width, height, orders;
-	static int[][] map;
-	static int[][] ordersMap;
-	static List<int[]> orderSeqL = new ArrayList<>();
+	static int[][] map, ordersMap, temp;
 	static int answer = Integer.MAX_VALUE;
 	static int[] dirX = {1, 0, -1, 0};
 	static int[] dirY = {0, 1, 0, -1};
@@ -26,15 +19,13 @@ public class BJ17406_배열돌리기4 {
 	public static void main(String[] args) {
 		input();
 		permutation(new boolean[orders], new int[orders], 0);
-		for (int[] seq : orderSeqL) {
-			answer = Math.min(answer, rotateAndCal(seq));
-		}
+		System.out.println(answer);
 	}
 
 	private static int rotateAndCal(int[] seq) {
-		int[][] temp = clone(map);
+		temp = clone(map);
 		for (int idx : seq) {
-			rotate(temp, ordersMap[idx]);
+			temp = rotate(ordersMap[idx]);
 		}
 		return calculate(temp);
 	}
@@ -47,48 +38,64 @@ public class BJ17406_배열돌리기4 {
 		return minSum;
 	}
 
-	private static void rotate(int[][] origin, int[] order) {
-		int[][] temp = clone(origin);
+	private static int[][] rotate(int[] order) {
+		int[][] moved = clone(temp);
 		int[] startXY = new int[]{order[1] - order[2], order[0] - order[2]};
 		int[] endXY = new int[]{order[1] + order[2], order[0] + order[2]};
+		Queue<Point> queue = new LinkedList<>();
 		boolean[][] visited = new boolean[height][width];
+
 		for (int y = 0; y < height; y++) {
 			for (int x = 0; x < width; x++) {
-				if (startXY[0] > x || x > endXY[0] || startXY[1] > y || y > endXY[1]) {
+				if (!(startXY[0] <= x && x <= endXY[0] && startXY[1] <= y && y <= endXY[1])) {
 					visited[y][x] = true;
 				}
 			}
 		}
-		for (int i = 0; i < (endXY[0] - startXY[0] + 1) / 2; i++) {
-			Point start = new Point(startXY[0] + i, startXY[1] + i, startXY[0] + dirX[0], startXY[1] + dirY[0], 0);
-			Queue<Point> queue = new LinkedList<>();
-			queue.add(start);
-			visited[start.nextY][start.nextX] = true;
-			temp[start.nextY][start.nextX] = origin[start.curY][start.curX];
-
+		for (int i = 0; i < (endXY[0] - startXY[0]) / 2; i++) {
+			Point startP = new Point(
+				startXY[0] + i,
+				startXY[1] + i,
+				startXY[0] + i + dirX[0],
+				startXY[1] + i + dirY[0],
+				0
+			);
+			visited[startP.nextY][startP.nextX] = true;
+			moved[startP.nextY][startP.nextX] = temp[startP.curY][startP.curX];
+			queue.add(startP);
 			while (!queue.isEmpty()) {
 				Point cur = queue.poll();
-				Point next = new Point(
-					cur.nextX, cur.nextY,
-					cur.nextX + dirX[cur.dir], cur.nextY + dirY[cur.dir],
-					cur.dir
-				);
-				if (inRange(next)) {
-					if (!visited[next.nextY][next.nextX]) {
-						visited
-					} else {
+				Point next = new Point(cur.nextX, cur.nextY, cur.nextX + dirX[cur.dir], cur.nextY + dirY[cur.dir], cur.dir);
+				boolean isNextAble = false;
+				if (inRange(next) && !visited[next.nextY][next.nextX]) {
+					isNextAble = true;
+				} else if (next.dir <= 2) {
+					Point dirChanged = new Point(
+						cur.nextX,
+						cur.nextY,
+						cur.nextX + dirX[cur.dir + 1],
+						cur.nextY + dirY[cur.dir + 1],
+						cur.dir + 1
+					);
 
+					if (inRange(dirChanged) && !visited[dirChanged.nextY][dirChanged.nextX]) {
+						isNextAble = true;
+						next = dirChanged;
 					}
+				}
+				if (isNextAble) {
 					queue.add(next);
-					temp[next.y + dirY[next.dir]][next.x + dirX[next.dir]] = origin[next.y][next.x];
+					visited[next.nextY][next.nextX] = true;
+					moved[next.nextY][next.nextX] = temp[next.curY][next.curX];
 				}
 			}
 		}
-		origin = temp;
+
+		return moved;
 	}
 
 	private static boolean inRange(Point next) {
-		return 0 <= next.nextX && next.nextX < width && 0 < next.nextY && next.nextY < height;
+		return 0 <= next.nextX && next.nextX < width && 0 <= next.nextY && next.nextY < height;
 	}
 
 	private static int[][] clone(int[][] map) {
@@ -99,15 +106,9 @@ public class BJ17406_배열돌리기4 {
 		return temp;
 	}
 
-	private static void printMap(int[][] temp) {
-		for (int[] line : temp) {
-			System.out.println(Arrays.toString(line));
-		}
-	}
-
 	private static void permutation(boolean[] visited, int[] orderSeq, int depth) {
 		if (depth == orders) {
-			orderSeqL.add(orderSeq.clone());
+			answer = Math.min(answer, rotateAndCal(orderSeq.clone()));
 			return;
 		}
 		for (int i = 0; i < orders; i++) {
@@ -125,6 +126,7 @@ public class BJ17406_배열돌리기4 {
 		width = scan.nextInt();
 		orders = scan.nextInt();
 		map = new int[height][width];
+		temp = new int[height][width];
 		ordersMap = new int[orders][3];
 
 		for (int y = 0; y < height; y++) {
@@ -137,22 +139,6 @@ public class BJ17406_배열돌리기4 {
 			ordersMap[i] = new int[]{scan.nextInt() - 1, scan.nextInt() - 1, scan.nextInt()};
 		}
 	}
-//	static void perm(int[] arr, int[] output, boolean[] visited, int depth, int n, int r) {
-//		if (depth == r) {
-//			print(output, r);
-//			return;
-//		}
-//
-//		for (int i=0; i<n; i++) {
-//			if (visited[i] != true) {
-//				visited[i] = true;
-//				output[depth] = arr[i];
-//				perm(arr, output, visited, depth + 1, n, r);
-//				output[depth] = 0; // 이 줄은 없어도 됨
-//				visited[i] = false;;
-//			}
-//		}
-//	}
 
 	private static class Point{
 		int curX, curY, nextX, nextY, dir;
@@ -172,9 +158,6 @@ public class BJ17406_배열돌리기4 {
 	  public FastReader() {
 	    br = new BufferedReader(new InputStreamReader(System.in));
 	  }
-	  public FastReader(String s) throws FileNotFoundException {
-	    br = new BufferedReader(new FileReader(new File(s)));
-	  }
 	  String next() {
 	    while (st == null || !st.hasMoreElements()) {
 	      try {
@@ -187,21 +170,6 @@ public class BJ17406_배열돌리기4 {
 	  }
 	  int nextInt() {
 	    return Integer.parseInt(next());
-	  }
-	  long nextLong() {
-	    return Long.parseLong(next());
-	  }
-	  double nextDouble() {
-	    return Double.parseDouble(next());
-	  }
-	  String nextLine() {
-	    String str = "";
-	    try {
-	      str = br.readLine();
-	    } catch (IOException e) {
-	      e.printStackTrace();
-	    }
-	    return str;
 	  }
 	}
 }
