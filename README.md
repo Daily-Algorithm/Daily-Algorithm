@@ -67,6 +67,11 @@
 |20|22.05.27|그리디|![](/BJ_tier_imgs/G4.png)|[AB](https://www.acmicpc.net/problem/12970)|🟢|🟢|
 |21|22.05.28|구현|![](/BJ_tier_imgs/G4.png)|[배열 돌리기 4](https://www.acmicpc.net/problem/17406)|🟡|🟢|
 |22|22.05.29|문자열, 스택|![](/BJ_tier_imgs/G4.png)|[PPAP](https://www.acmicpc.net/problem/16120)|🟢||
+|23|22.05.31|다익스트라|![](/BJ_tier_imgs/G4.png)|[최단거리](https://www.acmicpc.net/problem/1753)|🟢||
+|24|22.06.01|다익스트라|![](/BJ_tier_imgs/G4.png)|[최소비용구하기](https://www.acmicpc.net/problem/1916)|🟢||
+|24|22.06.01|다익스트라|![](/PG_tier_imgs/L3.png)|[합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|🟢||
+|24|22.06.01|다익스트라|![](/BJ_tier_imgs/G4.png)|[서강그라운드](https://www.acmicpc.net/problem/16120)|🟢||
+|24|22.06.01|다익스트라|![](/PG_tier_imgs/L2.png)|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|🟢||
     
 </div>
 </details>
