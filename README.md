@@ -40,8 +40,8 @@
 ||22.05.||![](/BJ_tier_imgs/G2.png)|[](https://www.acmicpc.net/problem/1759)|| 
 -->
 <details>
-<summary>2022.04</summary>
-<div markdown="2022.04">       
+<summary>2022.06</summary>
+<div markdown="2022.06">       
 
 |No.|날짜|유형|Lv.|문제링크|이하정|신동은|
 |:-:|---|---|:--:|-------|:---:|:---:|
