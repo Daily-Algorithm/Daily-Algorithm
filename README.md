@@ -51,6 +51,8 @@
 |4|22.06.02|다익스트라|![](/PG_tier_imgs/L2.png)|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|🟢||
 |5|22.06.03|투포인터|![](/BJ_tier_imgs/G4.png)|[부분합](https://www.acmicpc.net/problem/1806)|🟢||
 |6|22.06.06|투포인터|![](/BJ_tier_imgs/G4.png)|[좋다](https://www.acmicpc.net/problem/1253)|🟡||
+|7|22.06.07|투포인터|![](/BJ_tier_imgs/G4.png)|[List of Unique Numbers](https://www.acmicpc.net/problem/13144)|🟡||
+|8|22.06.08|투포인터|![](/BJ_tier_imgs/G4.png)|[고냥이](https://www.acmicpc.net/problem/16472)|🟢||
 
 </div>
 </details>
