@@ -5,9 +5,8 @@
 
 ## ⛔️규칙
 > 시간은 구성원 스케쥴에 맞춰 유동적으로!  
-[주중] 아침 10시 / 자료구조 2문제 이상  
-[주말] 아침 10시 / 자유문제 1문제  
-▶ 방학 : 22/01/28 ~ 22/02/01
+[주중] 아침 10시
+[주말] 저녁 시간자유
 
 - **각자 포크한 repository/main 브랜치**에 문제를 push하고, pr을 통해 **공용 repository/각자 브랜치**에 반영
     - 예 : pr 날릴 때 `Daily-Algorithm:이하정` <- `healtheefart:main`
@@ -53,6 +52,7 @@
 |6|22.06.06|투포인터|![](/BJ_tier_imgs/G4.png)|[좋다](https://www.acmicpc.net/problem/1253)|🟡||
 |7|22.06.07|투포인터|![](/BJ_tier_imgs/G4.png)|[List of Unique Numbers](https://www.acmicpc.net/problem/13144)|🟡||
 |8|22.06.08|투포인터|![](/BJ_tier_imgs/G4.png)|[고냥이](https://www.acmicpc.net/problem/16472)|🟢||
+|9|22.06.09|투포인터|![](/BJ_tier_imgs/G5.png)|[수고르기](https://www.acmicpc.net/problem/2230)|🟢||
 
 </div>
 </details>
