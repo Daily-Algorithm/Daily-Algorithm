@@ -53,6 +53,7 @@
 |7|22.06.07|투포인터|![](/BJ_tier_imgs/G4.png)|[List of Unique Numbers](https://www.acmicpc.net/problem/13144)|🟡||
 |8|22.06.08|투포인터|![](/BJ_tier_imgs/G4.png)|[고냥이](https://www.acmicpc.net/problem/16472)|🟢||
 |9|22.06.09|투포인터|![](/BJ_tier_imgs/G5.png)|[수고르기](https://www.acmicpc.net/problem/2230)|🟢||
+|10|22.06.17|백트래킹|![](/BJ_tier_imgs/G5.png)|[미친로봇](https://www.acmicpc.net/problem/1405)|🟢||
 
 </div>
 </details>
