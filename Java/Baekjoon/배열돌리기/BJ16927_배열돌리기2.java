@@ -13,8 +13,6 @@ public class BJ16927_배열돌리기2 {
 	static int[] dirX = {0, 1, 0, -1};
 	static int[] dirY = {1, 0, -1, 0};
 	static int[][] map;
-	static boolean[][] from;
-	static boolean[][] to;
 	static int[][] answer;
 
 	public static void main(String[] args) {
@@ -89,8 +87,6 @@ public class BJ16927_배열돌리기2 {
 		R = scan.nextInt();
 		map = new int[height][width];
 		answer = new int[height][width];
-		from = new boolean[height][width];
-		to = new boolean[height][width];
 		for (int y = 0; y < height; y++) {
 			for (int x = 0; x < width; x++) {
 				map[y][x] = scan.nextInt();
