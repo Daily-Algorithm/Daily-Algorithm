@@ -54,6 +54,8 @@
 |8|22.06.08|투포인터|![](/BJ_tier_imgs/G4.png)|[고냥이](https://www.acmicpc.net/problem/16472)|🟢||
 |9|22.06.09|투포인터|![](/BJ_tier_imgs/G5.png)|[수고르기](https://www.acmicpc.net/problem/2230)|🟢||
 |10|22.06.17|백트래킹|![](/BJ_tier_imgs/G5.png)|[미친로봇](https://www.acmicpc.net/problem/1405)|🟢||
+|11|22.06.19|백트래킹|![](/BJ_tier_imgs/G4.png)|[좋은수열](https://www.acmicpc.net/problem/2661)|🟢||
+|12|22.06.20|배열돌리기|![](/BJ_tier_imgs/G5.png)|[배열돌리기2](https://www.acmicpc.net/problem/16927)|🟡||
 
 </div>
 </details>
