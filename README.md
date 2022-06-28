@@ -49,14 +49,14 @@
 |3|22.06.02|다익스트라|![](/BJ_tier_imgs/G4.png)|[서강그라운드](https://www.acmicpc.net/problem/16120)|🟢|🟢|
 |4|22.06.02|다익스트라|![](/PG_tier_imgs/L2.png)|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|🟢||
 |5|22.06.03|투포인터|![](/BJ_tier_imgs/G4.png)|[부분합](https://www.acmicpc.net/problem/1806)|🟢||
-|6|22.06.06|투포인터|![](/BJ_tier_imgs/G4.png)|[좋다](https://www.acmicpc.net/problem/1253)|🟡||
+|6|22.06.06|투포인터|![](/BJ_tier_imgs/G4.png)|[좋다](https://www.acmicpc.net/problem/1253)|🟡|🟢|
 |7|22.06.07|투포인터|![](/BJ_tier_imgs/G4.png)|[List of Unique Numbers](https://www.acmicpc.net/problem/13144)|🟡||
-|8|22.06.08|투포인터|![](/BJ_tier_imgs/G4.png)|[고냥이](https://www.acmicpc.net/problem/16472)|🟢||
-|9|22.06.09|투포인터|![](/BJ_tier_imgs/G5.png)|[수고르기](https://www.acmicpc.net/problem/2230)|🟢||
-|10|22.06.17|백트래킹|![](/BJ_tier_imgs/G5.png)|[미친로봇](https://www.acmicpc.net/problem/1405)|🟢||
+|8|22.06.08|투포인터|![](/BJ_tier_imgs/G4.png)|[고냥이](https://www.acmicpc.net/problem/16472)|🟢|🟢|
+|9|22.06.09|투포인터|![](/BJ_tier_imgs/G5.png)|[수고르기](https://www.acmicpc.net/problem/2230)|🟢|🟢|
+|10|22.06.17|백트래킹|![](/BJ_tier_imgs/G5.png)|[미친로봇](https://www.acmicpc.net/problem/1405)|🟢|🟢|
 |11|22.06.19|백트래킹|![](/BJ_tier_imgs/G4.png)|[좋은수열](https://www.acmicpc.net/problem/2661)|🟢||
-|12|22.06.20|배열돌리기|![](/BJ_tier_imgs/G5.png)|[배열돌리기2](https://www.acmicpc.net/problem/16927)|🟡||
-|13|22.06.21|구현|![](/BJ_tier_imgs/G5.png)|[컨베이어벨트위의로봇](https://www.acmicpc.net/problem/20055)|🟢||
+|12|22.06.20|배열돌리기|![](/BJ_tier_imgs/G5.png)|[배열돌리기2](https://www.acmicpc.net/problem/16927)|🟡|🟢|
+|13|22.06.21|구현|![](/BJ_tier_imgs/G5.png)|[컨베이어벨트위의로봇](https://www.acmicpc.net/problem/20055)|🟢|🟢|
 |13|22.06.25|DFS, BFS|![](/PG_tier_imgs/L2.png)|[전력망둘로나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)|🟢||
 
 </div>
