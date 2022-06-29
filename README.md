@@ -36,7 +36,7 @@
 - 각자 느낀 난이도를 🟢(풀만 함) 🟡(어렵게 품) 🔴(풀지 못함) 으로 표시
 <!-- 
 ||22.05.||![](/PG_tier_imgs/L2.png)|[](https://programmers.co.kr/learn/courses/30/lessons/)|| 
-||22.05.||![](/BJ_tier_imgs/G2.png)|[](https://www.acmicpc.net/problem/1759)|| ||22.05.||![](/BJ_tier_imgs/G2.png)|[](https://www.acmicpc.net/problem/1759)|| 
+||22.05.||![](/BJ_tier_imgs/G2.png)|[](https://www.acmicpc.net/problem/1759)||
 -->
 <details>
 <summary>2022.06</summary>
@@ -57,7 +57,8 @@
 |11|22.06.19|백트래킹|![](/BJ_tier_imgs/G4.png)|[좋은수열](https://www.acmicpc.net/problem/2661)|🟢||
 |12|22.06.20|배열돌리기|![](/BJ_tier_imgs/G5.png)|[배열돌리기2](https://www.acmicpc.net/problem/16927)|🟡|🟢|
 |13|22.06.21|구현|![](/BJ_tier_imgs/G5.png)|[컨베이어벨트위의로봇](https://www.acmicpc.net/problem/20055)|🟢|🟢|
-|13|22.06.25|DFS, BFS|![](/PG_tier_imgs/L2.png)|[전력망둘로나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)|🟢||
+|14|22.06.25|DFS, BFS|![](/PG_tier_imgs/L2.png)|[전력망둘로나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)|🟢||
+|15|22.06.29|그리디|![](/BJ_tier_imgs/G5.png)|[두배더하기](https://www.acmicpc.net/problem/12931)|🟢||
 
 </div>
 </details>
