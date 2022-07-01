@@ -38,6 +38,17 @@
 ||22.05.||![](/PG_tier_imgs/L2.png)|[](https://programmers.co.kr/learn/courses/30/lessons/)|| 
 ||22.05.||![](/BJ_tier_imgs/G2.png)|[](https://www.acmicpc.net/problem/1759)||
 -->
+
+<details>
+<summary>2022.07</summary>
+<div markdown="2022.07">       
+
+|No.|날짜|유형|Lv.|문제링크|이하정|신동은|
+|:-:|---|---|:--:|-------|:---:|:---:|
+|1|22.07.01||![](/PG_tier_imgs/L2.png)|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|||
+</div>
+</details>
+
 <details>
 <summary>2022.06</summary>
 <div markdown="2022.06">       
