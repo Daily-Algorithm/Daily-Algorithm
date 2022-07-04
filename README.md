@@ -43,9 +43,10 @@
 <summary>2022.07</summary>
 <div markdown="2022.07">       
 
-|No.|날짜|유형|Lv.|문제링크|이하정|신동은|
+|No.|이슈|유형|Lv.|문제링크|이하정|신동은|
 |:-:|---|---|:--:|-------|:---:|:---:|
-|1|22.07.01||![](/PG_tier_imgs/L2.png)|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|||
+|1|22.07.01||![](/PG_tier_imgs/L2.png)|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)|🟢||
+|2|#79||![](/PG_tier_imgs/L3.png)|[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)|🟢||
 </div>
 </details>
 
