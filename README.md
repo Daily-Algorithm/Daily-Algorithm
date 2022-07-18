@@ -1,7 +1,7 @@
 # Daily-Algorithm
 
 ## 👩🏻‍🦱 구성원
-> 신동은(@dongeunshin), 이하정(@healtheefart)
+> 신동은(@dongeunshin) , 이하정(@healtheefart)
 
 ## ⛔️규칙
 > 시간은 구성원 스케쥴에 맞춰 유동적으로!  
