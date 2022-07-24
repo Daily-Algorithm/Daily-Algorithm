@@ -52,6 +52,7 @@
 |5|22.07.18|구현|![](/PG_tier_imgs/L2.png)|[괄호회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)|🟢||
 |6|22.07.20|백트래킹|![](/BJ_tier_imgs/G4.png)|[스도쿠](https://www.acmicpc.net/problem/2580)|🟡||
 |7|22.07.22|브루트포스|![](/BJ_tier_imgs/G5.png)|[A와B(2)](https://www.acmicpc.net/problem/12919)|🟢||
+|8|22.07.24|DFS|![](/BJ_tier_imgs/G5.png)|[숫자고르기](https://www.acmicpc.net/problem/2668)|🟢||
 </div>
 </details>
 
