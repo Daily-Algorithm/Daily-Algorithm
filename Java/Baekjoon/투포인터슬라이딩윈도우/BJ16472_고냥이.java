@@ -1,4 +1,4 @@
-package 투포인터;
+package Baekjoon.투포인터슬라이딩윈도우;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -6,40 +6,41 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.HashMap;
+import java.util.Map;
 import java.util.StringTokenizer;
 
-public class BJ1806_부분합 {
+public class BJ16472_고냥이 {
 	static FastReader scan = new FastReader();
-	static int N, S;
-	static int[] arr;
+	static StringBuilder sb = new StringBuilder();
+	static int able, answer = -1;
+	static String[] arr;
+
 	public static void main(String[] args) {
 		input();
-		pro();
-	}
-
-	private static void pro() {
-		// ans = 만족하는 배열의 길이 중 가장 짧은 것
-		int R = 0, sum = 0, ans = N + 1;
-		for (int L = 1; L <= N; L++) {
-			// L이 이동하였으니 L-1을 구간에서 제외하기
-			sum -= arr[L - 1];
-			// R을 옮길 수 있을 때까지 옮기기
-			while (R + 1 <= N && sum < S) sum += arr[++R];
-			// [L...R]의 합, 즉 sum이 조건을 만족하면 정답 갱신하기
-			if (sum >= S) ans = Math.min(ans, R - L + 1);
+		int R = -1;
+		Map<String, Integer> map = new HashMap<>();
+		for (int L = 0; L < arr.length; L++) {
+			while (map.size() <= able && R + 1 < arr.length) {
+				R++;
+				map.put(arr[R], map.getOrDefault(arr[R], 0) + 1);
+			}
+			if (map.size() > able) {
+				map.remove(arr[R]);
+				R--;
+			}
+			answer = Math.max(answer, R - L + 1);
+			if (map.get(arr[L]) == 1) {
+				map.remove(arr[L]);
+			} else {
+				map.put(arr[L], map.get(arr[L]) - 1);
+			}
 		}
-		// ans 값을 보고 불가능 판단하기(ans == N + 1 이면 갱신된 적이 없으니 ans = 0)
-		if (ans == N + 1) ans = 0;
-		System.out.println(ans);
+		System.out.println(answer);
 	}
-
 	static void input(){
-		N = scan.nextInt();
-		S = scan.nextInt();
-		arr = new int[N + 1];
-		for (int i = 1; i <= N; i++) {
-			arr[i] = scan.nextInt();
-		}
+		able = scan.nextInt();
+		arr = scan.nextLine().split("");
 	}
 	static class FastReader {
 	  BufferedReader br;
@@ -62,12 +63,6 @@ public class BJ1806_부분합 {
 	  }
 	  int nextInt() {
 	    return Integer.parseInt(next());
-	  }
-	  long nextLong() {
-	    return Long.parseLong(next());
-	  }
-	  double nextDouble() {
-	    return Double.parseDouble(next());
 	  }
 	  String nextLine() {
 	    String str = "";

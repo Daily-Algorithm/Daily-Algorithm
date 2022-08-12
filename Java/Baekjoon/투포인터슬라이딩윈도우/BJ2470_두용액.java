@@ -1,4 +1,4 @@
-package 투포인터;
+package Baekjoon.투포인터슬라이딩윈도우;
 
 import java.io.BufferedReader;
 import java.io.IOException;
