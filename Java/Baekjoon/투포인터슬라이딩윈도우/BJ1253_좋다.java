@@ -1,4 +1,4 @@
-package 투포인터;
+package Baekjoon.투포인터슬라이딩윈도우;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,38 +6,48 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class BJ2230_수고르기 {
+public class BJ1253_좋다 {
 	static FastReader scan = new FastReader();
-	static int N, limit;
 	static int[] arr;
-	static int answer = Integer.MAX_VALUE;
+	static int num, answer;
 
 	public static void main(String[] args) {
 		input();
-		process();
+		for (int i = 1; i <= num; i++) {
+			if (isGood(i)) answer++;
+		}
 		System.out.println(answer);
 	}
 
-	private static void process() {
-		Arrays.sort(arr);
-		int R = -1;
-		for (int L = 0; L < N; L++) {
-			while (R + 1 < N && (arr[R + 1] - arr[L]) < limit) {
-				R++;
-			}
-			if (R + 1 < N && (arr[R + 1] - arr[L]) >= limit) {
-				answer = Math.min(answer, arr[R + 1] - arr[L]);
+	private static boolean isGood(int targetIdx) {
+		int target = arr[targetIdx];
+		int L = 1; int R = num;
+		while (L < R) {
+			if (L == targetIdx) {
+				L++;
+			} else if (R == targetIdx) {
+				R--;
+			} else {
+				if (arr[L] + arr[R] == target) {
+					return true;
+				} else if (arr[L] + arr[R] < target) {
+					L++;
+				} else {
+					R--;
+				}
 			}
 		}
+		return false;
 	}
 
 	static void input(){
-		N = scan.nextInt();
-		limit = scan.nextInt();
-		arr = new int[N];
-		for (int i = 0; i < N; i++) {
+		num = scan.nextInt();
+		arr = new int[num + 1];
+		arr[0] = -1000000001;
+		for (int i = 1; i <= num; i++) {
 			arr[i] = scan.nextInt();
 		}
+		Arrays.sort(arr);
 	}
 	static class FastReader {
 	  BufferedReader br;
