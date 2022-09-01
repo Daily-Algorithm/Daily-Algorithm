@@ -1,4 +1,4 @@
-package 이진탐색;
+package Baekjoon.이진탐색;
 
 import static java.lang.System.*;
 
