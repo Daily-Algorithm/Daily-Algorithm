@@ -1,4 +1,4 @@
-package 순열조합;
+package Baekjoon.백트래킹순열조합;
 
 import java.io.BufferedReader;
 import java.io.IOException;

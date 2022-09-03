@@ -7,7 +7,10 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class BJ3151_합이0 {
+/**
+ * 이분탐색이 틀린 듯..?
+ */
+public class BJ3151_합이0_F01 {
 	static int N;
 	static int[] arr;
 	static Map<Integer, Integer> cnts = new HashMap<>();
