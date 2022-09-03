@@ -1,15 +1,14 @@
-package Sorting;
+package Baekjoon.투포인터슬라이딩윈도우;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.stream.Stream;
 
-public class BJ3273_두수의합 {
+public class BJ3273_두수의합_F01 {
 
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
